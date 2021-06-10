@@ -4,6 +4,9 @@ Reskilling campaign was introduced in Accenture Latvia to provide people with co
 
 How it works? Something like this...
 
+![Accenture Latvia reskilling process](reskilling_campaign.PNG)
+
+We provide you materials and mentor, to make you learning path as smooth as possible. After you are feeling ready, we schedule technical interview with our architect to proove your knowledge. If interview is passed, you will receive a job offer from our company. More information can be found [at our page](https://my.accenture.lv/jobs/5f0dadaf022d73000c162cc2).
 
 ## Materials
 
