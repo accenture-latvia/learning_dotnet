@@ -10,7 +10,7 @@ We provide you materials and mentor, to make you learning path as smooth as poss
 
 ## Materials
 
-We collected materials, which we think will boost your knowledge in .NET to pass technical interview and get job in our company. Of course, you can use them just for learning :D
+We collected materials, which we think will boost your knowledge in .NET to pass technical interview and get job in our company. Feel free to also use other materials on these topics you find easier to learn from.
 
 ### Introduction
 * Brief history, evolution -  
