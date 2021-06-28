@@ -1,4 +1,4 @@
-# Reskilling marketing campaign in Accenture Latvia
+# Reskilling campaign in Accenture Latvia
 
 Reskilling campaign was introduced in Accenture Latvia to provide people with coding backgroung to get new specialization as Microsoft Developer. It is for people who already have knowledge in coding and want to learn .NET.
 
